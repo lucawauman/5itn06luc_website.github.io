@@ -1,0 +1,42 @@
+body{
+	font-size: 20px;
+	font-family: "Calibri", "Arial", sans-serif;
+	background-color: lightblue;
+	margin: 0px;
+	padding: 50px;
+}
+
+h1{ 
+	font-size: 32px;
+	border-bottom: 2px solid black;
+	margin-top: 0px;
+}
+h2{
+	font-size: 25px;
+	font-style:italic; 
+	text-align: left;
+	padding-right: 40px;
+}
+
+table, td, th, tr{
+	border: 2px solid #000000;
+	border-collapse: collapse;
+}
+th{ 
+	color: cyan;
+	text-decoration: underline;
+	text-align: center;
+	background-color: #496991;
+}
+td{ background-color: cyan; }
+table{ width: 50%;}
+
+footer {
+   position: fixed;
+   left: 0;
+   bottom: 0px;
+   width: 100%;
+   background-color: transparent;
+   color: black;
+   text-align: center;
+}

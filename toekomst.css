@@ -1,0 +1,31 @@
+body{
+	font-size: 20px;
+	font-family: "Calibri", "Arial", sans-serif;
+	background-color: lightblue;
+	margin: 0px;
+	padding: 50px;
+}
+
+h1{ 
+	font-size: 32px;
+	border-bottom: 2px solid black;
+	margin-top: 0px;
+}
+
+.browserlogo{
+	height: 30%;
+	width: 30%;
+	float: left;
+	left: 200px;
+	border: 3px solid #496991;
+}
+
+footer {
+   position: fixed;
+   left: 0;
+   bottom: 0px;
+   width: 100%;
+   background-color: transparent;
+   color: black;
+   text-align: center;
+}
